@@ -9,7 +9,7 @@
     {
         public function index()
         {
-            echo 'aD';
+            $this->load->view('loginView');
         }
     }
 
